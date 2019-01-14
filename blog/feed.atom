@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Blog Starter Template</title>
-    <link href="https://my-jigsaw-blog.com" />
-    <link type="application/atom+xml" rel="self" href="https://my-jigsaw-blog.com/blog/feed.atom" />
-    <updated>2019-01-14T22:57:38+05:30</updated>
-    <id>https://my-jigsaw-blog.com/blog/feed.atom</id>
+    <link href="https://ankitjain28may.github.io/static-site-jigsaw/" />
+    <link type="application/atom+xml" rel="self" href="https://ankitjain28may.github.io/static-site-jigsaw/blog/feed.atom" />
+    <updated>2019-01-14T23:29:21+05:30</updated>
+    <id>https://ankitjain28may.github.io/static-site-jigsaw/blog/feed.atom</id>
     <author>
         <name>Author Name</name>
     </author>
                 <entry>
-    <id>https://my-jigsaw-blog.com/blog/getting-started</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/getting-started" />
+    <id>https://ankitjain28may.github.io/static-site-jigsaw/blog/getting-started</id>
+    <link type="text/html" rel="alternate" href="https://ankitjain28may.github.io/static-site-jigsaw/blog/getting-started" />
     <title>Getting Started</title>
     <published>2018-12-25T05:30:00+05:30</published>
     <updated>2018-12-25T05:30:00+05:30</updated>
@@ -64,8 +64,8 @@ featured: true
 npm run dev</code></pre>    ]]></content>
 </entry>
             <entry>
-    <id>https://my-jigsaw-blog.com/blog/customizing-your-site</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/customizing-your-site" />
+    <id>https://ankitjain28may.github.io/static-site-jigsaw/blog/customizing-your-site</id>
+    <link type="text/html" rel="alternate" href="https://ankitjain28may.github.io/static-site-jigsaw/blog/customizing-your-site" />
     <title>Customizing Your Site</title>
     <published>2018-12-24T05:30:00+05:30</published>
     <updated>2018-12-24T05:30:00+05:30</updated>
@@ -122,8 +122,8 @@ npm run dev</code></pre>    ]]></content>
 }</code></pre>    ]]></content>
 </entry>
             <entry>
-    <id>https://my-jigsaw-blog.com/blog/custom-404-page</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/custom-404-page" />
+    <id>https://ankitjain28may.github.io/static-site-jigsaw/blog/custom-404-page</id>
+    <link type="text/html" rel="alternate" href="https://ankitjain28may.github.io/static-site-jigsaw/blog/custom-404-page" />
     <title>Custom 404 Pages</title>
     <published>2018-12-23T05:30:00+05:30</published>
     <updated>2018-12-23T05:30:00+05:30</updated>
@@ -157,8 +157,8 @@ Depending on where your site is hosted, you may need to configure......</summary
 <p>Depending on where your site is hosted, you may need to configure your server to use the custom 404 page. For more details, visit the <a href="https://jigsaw.tighten.co/docs/custom-404-page/">Jigsaw documentation about configuring a custom 404 page</a>.</p>    ]]></content>
 </entry>
             <entry>
-    <id>https://my-jigsaw-blog.com/blog/fuse-search</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/fuse-search" />
+    <id>https://ankitjain28may.github.io/static-site-jigsaw/blog/fuse-search</id>
+    <link type="text/html" rel="alternate" href="https://ankitjain28may.github.io/static-site-jigsaw/blog/fuse-search" />
     <title>Fuse Search</title>
     <published>2018-12-22T05:30:00+05:30</published>
     <updated>2018-12-22T05:30:00+05:30</updated>
@@ -172,8 +172,8 @@ Depending on where your site is hosted, you may need to configure......</summary
 <p>If you'd like to customize the generation of your search index, take a look at the <code>handle</code> method of the <code>GenerateIndex.php</code> file.</p>    ]]></content>
 </entry>
             <entry>
-    <id>https://my-jigsaw-blog.com/blog/mailchimp-newsletters</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/mailchimp-newsletters" />
+    <id>https://ankitjain28may.github.io/static-site-jigsaw/blog/mailchimp-newsletters</id>
+    <link type="text/html" rel="alternate" href="https://ankitjain28may.github.io/static-site-jigsaw/blog/mailchimp-newsletters" />
     <title>Mailchimp Newsletters</title>
     <published>2018-11-21T05:30:00+05:30</published>
     <updated>2018-11-21T05:30:00+05:30</updated>
@@ -210,8 +210,8 @@ To begin accepting......</summary>
 <p><a href="https://mailchimp.com/help/host-your-own-signup-forms/#Edit_your_Custom_Signup_Form">See how to get your Mailchimp list URL.</a></p>    ]]></content>
 </entry>
             <entry>
-    <id>https://my-jigsaw-blog.com/blog/my-first-blog-post</id>
-    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/blog/my-first-blog-post" />
+    <id>https://ankitjain28may.github.io/static-site-jigsaw/blog/my-first-blog-post</id>
+    <link type="text/html" rel="alternate" href="https://ankitjain28may.github.io/static-site-jigsaw/blog/my-first-blog-post" />
     <title>My First Blog Post</title>
     <published>2017-03-23T05:30:00+05:30</published>
     <updated>2017-03-23T05:30:00+05:30</updated>
